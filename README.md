@@ -21,7 +21,7 @@ this repository is a simple STGC gun club management system that contains a lots
   - [ ] All shooter profiles (including attendance rate, h.f.avg., etc.)
   - [ ] Gun club rules
   - [ ] Roadmap
-  - [ ] Event notifications
+  - [ ] Event notifications system
 > ### For every deparment
   - [ ] **O**ne **D**ollar **A**dmin **P**anel (O.D.A.P.)
     - [ ] **O.D.A.P Can acces/write/delete all admin panel**
